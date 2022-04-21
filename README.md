@@ -1,5 +1,5 @@
-# MS2MVAE
-Dear readers, this is the codes for our new work MS2MVAE. 
+# MD2MVAE
+Dear readers, this is the codes for our new work MD2MVAE. 
 Since the manuscript has not been published, the whole codes and datasets would be uploaded latter.
 Now, we only provide part of them and the rest would be supplemented in the following days.
 The datasets could be downloaded at: https://doi.org/10.5281/zenodo.4587297.
